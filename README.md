@@ -6,7 +6,7 @@ Predicting economic growth is a complex task influenced by numerous global facto
 
 Merge and Clean Data: Consolidate global GDP and population datasets.
 
-Feature Engineering: Calculate GDP per Capita and perform inflation adjustments using Consumer Price Index (CPI) data.
+Feature Engineering: Calculate GDP per Capita.
 
 Predictive Modeling: Compare the accuracy of four different modeling approaches for short-term and long-term forecasting.
 
